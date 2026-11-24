@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "titulo": "Prueba",
+        "contenido": "Esta es una prueba",
+        "autor": {
+            "nombre": "Mariano Guerra",
+            "bio": "",
+            "especialidad": "",
+            "redes_sociales": []
+        },
+        "tags": [
+            "test",
+            "prueba"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 2,
+        "titulo": "Aprendiendo Python",
+        "contenido": "En este blog aprenderemos Python",
+        "autor": {
+            "nombre": "Mariano Guerra",
+            "bio": "",
+            "especialidad": "",
+            "redes_sociales": []
+        },
+        "tags": [
+            "python"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 3,
+        "titulo": "Javascript facil",
+        "contenido": "Aprenderemos JS de manera facil",
+        "autor": {
+            "nombre": "Mariano Guerra",
+            "bio": "",
+            "especialidad": "",
+            "redes_sociales": []
+        },
+        "tags": [
+            "javascript"
+        ],
+        "estado": "publicado"
+    }
+]
